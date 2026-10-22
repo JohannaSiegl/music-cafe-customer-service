@@ -3,9 +3,12 @@
 An AI customer service agent for a small, made-up music café in Kaohsiung with many vinyl records. Guests can ask about the café, look for songs, wish for a song, ask about drinks and prices, and get the total of an order, in English or in Traditional Chinese. The agent answers only from the café's own database through tools, so it does not make up opening hours, prices or songs.
 
 > Course homework: Unit G, My AI Customer Service Agent, with a Database and Tools
+
 > Student: C115451102 席喬安
 
-![Main screen of my agent, with the tool trace](images/main.png)
+![Main screen of my agent, with the tool trace](images/main-1.png)
+![Main screen of my agent, with the tool trace](images/main-2.png)
+![Main screen of my agent, with the tool trace](images/main-3.png)
 
 ## Who It Serves and When They Use It
 
